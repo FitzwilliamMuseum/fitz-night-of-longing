@@ -2,6 +2,8 @@
 layout: default
 title: 'Pillow Pictures'
 permalink: /explore/pillow-pictures
+image: /images/pillowpictures/front_piece_cat.jpg
+
 ---
 ### _makura-e_
 

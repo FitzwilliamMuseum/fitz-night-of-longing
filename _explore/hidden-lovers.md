@@ -2,18 +2,20 @@
 layout: default
 title: 'Hidden Lovers'
 permalink: /explore/hidden-lovers
+image: /images/hiddenlovers/front_piece.jpg
 ---
 The close up view we often get in Japanese prints, and particularly the way figures are cut off by the edge of the picture, sometimes implies that there is something – or someone – unseen beyond the edge of the print, but perfectly present to the person we are looking at.
 
 There are also visual clues that suggest another presence, and even tell us that we are close to intruding on an amorous situation. Or a lover might be suggested by a reflection, or a shadow on a blind, or by the scent left on a bathrobe.
 
-![Object Number P.3-2004]({{site.baseurl}}/images/hiddenlovers/P_3_2004_CE.jpeg)
-
-Tsukioka Yoshitoshi  
-1839-1892
+![Object Number P.3-2004]({{site.baseurl}}/images/hiddenlovers/P_3_2004_CE.jpeg){: img-fluid }
 
 **Looking Cool: a Geisha in the fifth or sixth year of Meiji**  
 _**Suzushisô Meiji goroku nen irai geigi no fûzoku**_
+Tsukioka Yoshitoshi  
+1839-1892  
+[P.3-2004]({{ site.collection_url }}id/object/183042)
+{: .text-info }
 
 Colour print from woodblocks with gloss black (_tsuyazumi_). _Ôban_ format. Block-cutter: Wada hori Yû. Publisher: Tsunashima Kamekichi. 04/05/1888.  
 Given by The Friends of the Fitzwilliam 2004
@@ -26,16 +28,14 @@ Unlike others in the series, this print is dated to a specific time (1872/3) rat
 
 As professional entertainers, geisha were traditionally forbidden from having sex with customers, but in the Meiji period lower class geisha were allowed an additional licence permitting them to offer sexual favours as well. Around the date of the setting of this print, the government emancipated geisha from their legal commitment to pay off their indenture. Many retired and became prosperous housewives in the Meiji period.
 
-[P.3-2004]({{ site.collection_url }}id/object/183042)
-
-
-![Object Number P.3570-R]({{site.baseurl}}/images/hiddenlovers/p_3570_r_1_201308_mfj22_dc2.jpeg)
-
-Utagawa Hiroshige  
-1797-1858
+![Object Number P.3570-R]({{site.baseurl}}/images/hiddenlovers/p_3570_r_1_201308_mfj22_dc2.jpeg){: .img-fluid }
 
 **Pine of Success and Oumayagashi, Asakusa River**  
 _**Asakusagawa Shubi no matsu Oumayagashi**_
+Utagawa Hiroshige  
+1797-1858  
+[P.3570-R]({{ site.collection_url }}id/object/182502)
+{: .text-info }
 
 Colour print from woodblocks with mica (_kira_). _Ôban_ format. Publisher: Uoya Eikichi (Uoei). 08/1856.  
 Given by T. H. Riches 1913
@@ -48,12 +48,14 @@ In the left foreground is a pleasure boat (_yanebune_). Two pairs of clogs lie i
 
 The effect of the woman's silhouette is even more subtle in earlier printings than this; they also have a yellow glow in the sky just above the horizon.
 
-[P.3570-R]({{ site.collection_url }}id/object/182502)
 
-![Object Number P.553-1937]({{site.baseurl}}/images/hiddenlovers/P_553_1937_CE.jpeg)
-Yanagawa Shigenobu, 1787-1833
+![Object Number P.553-1937]({{site.baseurl}}/images/hiddenlovers/P_553_1937_CE.jpeg){: img-fluid }
 
 **Summer robes incense** _**Natsu-goromo**_
+Yanagawa Shigenobu, 1787-1833  
+[P.553-1937]({{ site.collection_url }}id/object/182401)
+{: .text-info }
+
 
 Colour print from woodblocks with metallic pigment and blind embossing (_karazuri_). _Shikishiban_ format surimono. Poets: Goshintei San'en, Waseda Mitsumaru, Rikkaen. Mid 1830s.  
 Given by E. Evelyn Barron 1937
@@ -77,15 +79,13 @@ A woman wears a blue cotton bathrobe (_yukata_) and dries herself with a hand to
     – Rikkaen  
     (translation: Alfred Haft)
 
-[P.553-1937]({{ site.collection_url }}id/object/182401)
-
-
-![Object Number P.489-1937]({{site.baseurl}}/images/hiddenlovers/p_489_1937_1_201308_mfj22_dc2.jpeg)
-
-Utagawa Kunisada  
-1786-1864
+![Object Number P.489-1937]({{site.baseurl}}/images/hiddenlovers/p_489_1937_1_201308_mfj22_dc2.jpeg){: .img-fluid }
 
 **Flower**
+Utagawa Kunisada  
+1786-1864  
+[P.489-1937]({{ site.collection_url }}id/object/166026)
+{: .text-info }
 
 Colour print from woodblocks with metallic pigment and blind embossing (_karazuri_) and burnished black (_tsuya-zuri_). _Shikishiban_ format surimono. c.1823-5.  
 Given by E. Evelyn Barron 1937
@@ -103,5 +103,3 @@ A geisha imagines that she sees the face of a lover in her mirror. His features 
     in an indescribable spring dawn.  
     – Ryûôtei Hanazono Kochô  
     (based on a translation by John T. Carpenter)
-
-[P.489-1937]({{ site.collection_url }}id/object/166026)

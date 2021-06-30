@@ -2,6 +2,7 @@
 layout: default
 title: 'Love letters'
 permalink: /explore/love-letters
+image: /images/loveletters/front_piece.jpg
 ---
 The exchange of letters, and more particularly the exchange of poems, had long played an important part in courtship in Japan. In the Heian period (794-1185) poetic exchange was the chief method of courtship, and this led to corresponding poems of lovers being part of the narrative in classic prose of this period, such as The Tale of Genji (Genji monagatari), and in major poetry collections still famous in the Edo period. Love letters played an important part in Kabuki plays, and they often feature in printed portraits, revealing something about the thoughts of the sitter.
 
