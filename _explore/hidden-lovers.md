@@ -8,7 +8,7 @@ The close up view we often get in Japanese prints, and particularly the way figu
 
 There are also visual clues that suggest another presence, and even tell us that we are close to intruding on an amorous situation. Or a lover might be suggested by a reflection, or a shadow on a blind, or by the scent left on a bathrobe.
 
-![Object Number P.3-2004]({{site.baseurl}}/images/hiddenlovers/P_3_2004_CE.jpg){: img-fluid }
+![Object Number P.3-2004]({{site.baseurl}}/images/hiddenlovers/P_3_2004_CE.jpg){: .img-fluid }
 
 **Looking Cool: a Geisha in the fifth or sixth year of Meiji**  
 _**Suzushisô Meiji goroku nen irai geigi no fûzoku**_
@@ -49,7 +49,7 @@ In the left foreground is a pleasure boat (_yanebune_). Two pairs of clogs lie i
 The effect of the woman's silhouette is even more subtle in earlier printings than this; they also have a yellow glow in the sky just above the horizon.
 
 
-![Object Number P.553-1937]({{site.baseurl}}/images/hiddenlovers/P_553_1937_CE.jpg){: img-fluid }
+![Object Number P.553-1937]({{site.baseurl}}/images/hiddenlovers/P_553_1937_CE.jpg){: .img-fluid }
 
 **Summer robes incense** _**Natsu-goromo**_
 Yanagawa Shigenobu, 1787-1833  
