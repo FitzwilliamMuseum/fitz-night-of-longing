@@ -27,7 +27,8 @@ baseurl: "/night-of-longing" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-background: "/images/P_19_2012_CE.jpg" 
+background: "/images/P_19_2012_CE.jpg"
+collection_url: "https://collection.beta.fitz.ms/"
 # Build settings
 plugins:
   - jekyll-feed
@@ -42,19 +43,11 @@ plugins:
   - jekyll-mentions
 
 collections:
-   exhibition:
+   explore:
       output: true
    about:
       output: true
-   resources:
-      output: true
-   team:
-      output: true
-   blog:
-      output: true
-feed:
-  collections:
-    - blog
+
 
 timezone: Europe/London
 permalink: pretty
