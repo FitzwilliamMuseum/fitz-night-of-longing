@@ -10,7 +10,7 @@ The government's attempt to control nightlife and prostitution required brothel 
 To the wealthy townsmen (_chônin_) or the numerous _samurai_ (military aristocracy) serving their required attendance in Edo, the Yoshiwara was a place of escape, a 'floating world' where classes mixed and dreams seemed tangible. Its delights were described in guidebooks and celebrated in prints, literature and drama. The glamorous image of top-rank courtesans created an aura of appeal beyond simply sex for sale. It also distanced the Yoshiwara from unofficial brothel districts and more basic facilities around the city. If erotic prints depicted a courtesan it was usually with a secret lover rather than a client, but suggestion of possible romantic attachment was usually an illusion.
 
 
-![Object Number P.3577-R]({{site.baseurl}}/images/sexforsale/p_3577_r_1_201308_mfj22_dc2.jpeg){: .img-fluid }
+![Object Number P.3577-R]({{site.baseurl}}/images/sexforsale/p_3577_r_1_201308_mfj22_dc2.jpg){: .img-fluid }
 
 **Nihon Embankment, Yoshiwara**  
 **_Yoshiwara Nihonzutsumi_**
@@ -31,7 +31,7 @@ Arriving by boat, or by foot through the theatre district, the visitor would hir
 In an alternative printing, probably earlier, there is an extra wisp of cloud, and green printed on the willow and on the near embankment.
 
 
-![Object Number P.548-1937]({{site.baseurl}}/images/sexforsale/P_548_1937_CE.jpeg){: .img-fluid }
+![Object Number P.548-1937]({{site.baseurl}}/images/sexforsale/P_548_1937_CE.jpg){: .img-fluid }
 
 **Ômi number two**  
 **_Ômi sono ni_**
@@ -62,7 +62,7 @@ Here a low-class prostitute, or _yotaka_ (literally 'night hawk') tries to lure 
     (translations: John T. Carpenter)
 
 
-![Object Number P.3643-R]({{site.baseurl}}/images/sexforsale/P_3643_R_CE.jpeg){: .img-fluid }
+![Object Number P.3643-R]({{site.baseurl}}/images/sexforsale/P_3643_R_CE.jpg){: .img-fluid }
 
 **Azumado of the Nakaômiya: clearing storm**  
 **_Nakaômiya Azumado seiran_**
@@ -80,7 +80,7 @@ On the left of the latticed display room (_harimise_) is the entrance to the Nak
 
 Sets of 'eight views' always included a 'clearing storm' scene, and the man's folded umbrella and high clogs (_geta_) suggest the recent storm implied by the title. But perhaps there is also a suggestion of a passing emotional storm.
 
-![Object Number P.48-2010]({{site.baseurl}}/images/sexforsale/P_48_2010_CE.jpeg){: .img-fluid }   
+![Object Number P.48-2010]({{site.baseurl}}/images/sexforsale/P_48_2010_CE.jpg){: .img-fluid }   
 
 **Yoshiwara** Katsukawa Shunchô, active c.1781-1801  
 [P.48-2010]({{site.collection_url}}id/object/190413)
@@ -94,7 +94,7 @@ From the series 'Eight Views of Edo' (_Edo hakkei_). The idea of sets of eight v
 Two courtesans gaze out at rain through the upstairs window of a Yoshiwara brothel. Distant figures make their way along the Nihon embankment linking the Yoshiwara to Edo, carried in covered palanquins or sheltered by umbrellas. The muted monochrome shading emphasises the deadening effect of rain, but rather than simply a picture of boredom during slack business, the image recalls the poetic association of rain and longing for a lover (with rain as metaphor for tears). The imagery also recalls love poems that play with the twin meaning of words for 'gazing out pensively' (_nagame_) and 'long rains' (_naga-ame_).
 
 
-![Object Number P.174-2007]({{site.baseurl}}/images/sexforsale/P_174_2007_CE.jpeg){: .img-fluid }  
+![Object Number P.174-2007]({{site.baseurl}}/images/sexforsale/P_174_2007_CE.jpg){: .img-fluid }  
 
 **Yoshiwara street at night** Utagawa Kunisada, 1786-1864  
 [P.174-2007]({{site.collection_url}}id/object/183055)

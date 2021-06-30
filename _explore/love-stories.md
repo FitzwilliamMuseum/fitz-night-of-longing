@@ -10,7 +10,7 @@ In the Heian period (794-1185) exchanging poems was the chief method of courtshi
 
 Books of 'stories of the floating world' (_ukiyo-zôshi_) were succeeded by satirical 'books of wit and fashion' (_sharebon_), which focused on the sophisticated connoisseur of the pleasure quarters (_tsûjin_). In the nineteenth century, a new wave of fiction aimed primarily at women readers brought a more sentimental approach. 'Books to cry by' (_nakibon_) and novels emphasising emotion and romance (_ninjôbon_), set a new trend towards romantic love. Illustrated novels (_gokan_) combined romance with the vendetta elements of Kabuki. In some cases classic love stories were updated and sensationalized; erotic versions went further, with implied sex scenes made explicit.
 
-![Object Number P.4-1980]({{ site.baseurl }}/images/lovestories/P_4_1980_CE.jpeg){: .img-fluid }
+![Object Number P.4-1980]({{ site.baseurl }}/images/lovestories/P_4_1980_CE.jpg){: .img-fluid }
 
 **_Sakyô no dayû Michimasa_** Utagawa Kuniyoshi, 1797-1861  
 [P.4-1980]({{ site.collection_url }}id/object/182771)
@@ -40,7 +40,7 @@ Kuniyoshi depicts Masako receiving and reacting to Michimasa's poem, with its fa
 
 Some of the lead pigments in the print have blackened over time through exposure to contaminants in the air or in other pigments.
 
-![Object Number PD.3942-1937]({{ site.baseurl }}/images/lovestories/PD_3942_1937_CE.jpeg){: .img-fluid }  
+![Object Number PD.3942-1937]({{ site.baseurl }}/images/lovestories/PD_3942_1937_CE.jpg){: .img-fluid }  
 
 **_Sakyô no dayû Michimasa_** Katsushika Hokusai, 1760-1849  
 [PD.3942-1937]({{ site.collection_url }}id/object/197308)
@@ -57,7 +57,7 @@ It is possible that Michimasa deployed a double meaning in the last line of the 
 
 
 
-![Object Number P.3647-R]({{ site.baseurl }}/images/lovestories/p_3647_r_1_201308_mfj22_dc2.jpeg){: .img-fluid }
+![Object Number P.3647-R]({{ site.baseurl }}/images/lovestories/p_3647_r_1_201308_mfj22_dc2.jpg){: .img-fluid }
 
 **_Ônakatomi no Yoshinobu no Ason_** Utagawa Kuniyoshi, 1797-1861  
 [P.3647-R]({{ site.collection_url }}id/object/182551)
@@ -77,7 +77,7 @@ No. 49 in the series 'One hundred poems by one poets' (_Hyakunin isshu no uchi_)
     over and over, so I long for her.  
     (translation: Joshua S. Mostow)
 
-![Object Number P.3568-R]({{ site.baseurl }}/images/lovestories/p_3568_r_1_201308_mfj22_dc2.jpeg){: .img-fluid }
+![Object Number P.3568-R]({{ site.baseurl }}/images/lovestories/p_3568_r_1_201308_mfj22_dc2.jpg){: .img-fluid }
 
 **Komokata Hall and Azuma Bridge**  **_Komakatadô Azumabashi_**, Utagawa Hiroshige, 1797-1858  
 [P.3568-R]({{ site.collection_url }}id/object/182500)
@@ -100,7 +100,7 @@ Her lover was reputed to be the lord of Sendai, whose affair with the courtesan 
 ## Fiction
 {: .lead .text-success }
 
-![Object Number P.370-1937]({{ site.baseurl }}/images/lovestories/p_370_1937_2_201207_mfj22_dc1.jpeg){: .img-fluid }
+![Object Number P.370-1937]({{ site.baseurl }}/images/lovestories/p_370_1937_2_201207_mfj22_dc1.jpg){: .img-fluid }
 
 **Plum and painted shell**  
 **_Komakatadô Azumabashi_**
@@ -136,7 +136,7 @@ while aloft yet in mid-sky.
 (based on a translation by Royall Tyler)
 
 
-![Object Number P.545-1943]({{ site.baseurl }}/images/lovestories/P_545_1943_CE_2.jpeg){: .img-fluid }
+![Object Number P.545-1943]({{ site.baseurl }}/images/lovestories/P_545_1943_CE_2.jpg){: .img-fluid }
 
 **A bookcase of Edo-style kyôka**  
 **_Azumaburi kyôka bunko_**
@@ -169,7 +169,7 @@ _The Tale of Genji_ (translation: Royall Tyler)
 
 Kunisada seems to have borrowed this visual idea in 1858 for his diptych print for the Asumaya chapter of _Imitation Murasaki-Rustic Genji_, referencing Kashiwagi and the Third Princess, in the series _Lasting impressions of a late Genji collection_ (_Genji goshû yojô_). The visual reference to the incident of the Third Princess and her cat was popular in prints: for instance Utamaro design of c.1795, which echoes the composition of Masanobu's portrait of Tamago no Kakujo.
 
-![Object Number P.76-2004]({{ site.baseurl }}/images/lovestories/P_76_2004_CE.jpeg){: .img-fluid }
+![Object Number P.76-2004]({{ site.baseurl }}/images/lovestories/P_76_2004_CE.jpg){: .img-fluid }
 
 **The Yûgao chapter from The Tale of Genji**  
 **_Genji yûgao no maki_**
@@ -189,7 +189,7 @@ Genji courts the mysterious author of the poem, and takes her to a nearby villa,
 
 Yoshitoshi shows Yûgao's spirit floating through her garden on the night of a full moon. The gourd flower was also known as 'moonflower', thus linking the subject to the theme of the series. Her lips are blue, a convention for the depiction of ghosts and corpses.
 
-![Object Number P.18-2003]({{ site.baseurl }}/images/lovestories/P_18_2003_CE.jpeg){: .img-fluid }
+![Object Number P.18-2003]({{ site.baseurl }}/images/lovestories/P_18_2003_CE.jpg){: .img-fluid }
 
 **Rustic Genji**  
 **_Inaka Genji_**
@@ -212,7 +212,7 @@ Yoshitoshi evokes the uneasy mood of the novel, and includes details from Kunisa
 _Imitation Murasaki-Rustic Genji_  
 (translation: Chris Drake)
 
-![Object Number P.16-2003]({{ site.baseurl }}/images/lovestories/P_16_2003_CE.jpeg){: .img-fluid }
+![Object Number P.16-2003]({{ site.baseurl }}/images/lovestories/P_16_2003_CE.jpg){: .img-fluid }
 
 **Imitation Murasaki-Rustic Genji**  
 **_Nise Murasaki inaka Genji_**
@@ -232,7 +232,7 @@ _Imitation Murasaki-Rustic Genji_
 (translation: Chris Drake)
 
 
-![Object Number P.3692-R]({{ site.baseurl }}/images/lovestories/P_3692_R_CE.jpeg){: .img-fluid }
+![Object Number P.3692-R]({{ site.baseurl }}/images/lovestories/P_3692_R_CE.jpg){: .img-fluid }
 
 **Illustrated famous places in Yamato**  
 **_Yamato meisho zue_**
@@ -251,7 +251,7 @@ An illustrated gazetteer to the province of Yamato (modern Nara Prefecture). Thi
 Yoshida Kenkô, _Essays in idleness_ (_Tsurezuregusa_), c.1330  
 (based on a translation by Money L. Hickman)
 
-![Object Number P.66-1938]({{ site.baseurl }}/images/lovestories/P_66_1938_CE.jpeg){: .img-fluid }
+![Object Number P.66-1938]({{ site.baseurl }}/images/lovestories/P_66_1938_CE.jpg){: .img-fluid }
 
 **Still life with Jô and Uba**
 Ryûryûkyo Shinsai  
@@ -269,7 +269,7 @@ Shinsai pioneered still-life surimono and concentrated on them to a greater degr
 ## Drama
 {: .lead .text-success }
 
-![Object Number P.480-1937]({{ site.baseurl }}/images/lovestories/P_480_1937_CE.jpeg){: .img-fluid }  
+![Object Number P.480-1937]({{ site.baseurl }}/images/lovestories/P_480_1937_CE.jpg){: .img-fluid }  
 
 **The actors Ichikawa Danjûrô VII as Jô and Segawa Kikunojô V as Uba**
 Utagawa Kunisada  
@@ -298,7 +298,7 @@ These figures holding Nô masks come from a Kabuki play based on the Takasago le
     (translations: John T. Carpenter)
 
 
-![Object Number P.507-1937]({{ site.baseurl }}/images/lovestories/P_507_1937_CE.jpeg){: .img-fluid }
+![Object Number P.507-1937]({{ site.baseurl }}/images/lovestories/P_507_1937_CE.jpg){: .img-fluid }
 
 **Ichikawa Danjûrô VII as Mongaku and Ichikawa Danjûrô V (top) as Fudô Myôô**
 Utagawa Kunisada  
@@ -316,7 +316,7 @@ Before becoming a monk, Mongaku was besotted with Kesa Gozen. She rejected his a
 The poem on this print by Umenoya plays irreverently by associating Fûdo's coiled rope with the rope used to wrap wine casks as temple or shrine offerings, and by transforming the penitential waterfall (_taki_) into a famous brand of wine-Takisui-meaning 'water from a waterfall'. This brand was sold at the Yomo wine shop in Izumichô in the Kanda district of Edo.
 
 
-![Object Number P.619-1991]({{ site.baseurl }}/images/lovestories/p_619_1991_1_201308_mfj22_dc2.jpeg){: .img-fluid }   
+![Object Number P.619-1991]({{ site.baseurl }}/images/lovestories/p_619_1991_1_201308_mfj22_dc2.jpg){: .img-fluid }   
 
 **Sawamura Tanosuke II as Ashikage Yorikane and Onoe Matsusuke II as the courtesan Takao**
 Utagawa Toyokuni  
@@ -335,7 +335,7 @@ This scene was a sensational hit with the audience, and the performance depicted
 
 The actor Sawamura Tanosuke usually played women's roles, but in this production he played the male lead because it was especially associated with the Sawamura school of actors. His performance was acclaimed, but the actor playing Takao was better known for playing the role of a dandy, and this foray into female impersonation was not well received. Toyokuni may also have drawn inspiration from an illustration of this incident in the book _Illustrated story of the golden flower_ (_Ehon kinkadan_) by Hayame Shungyôsai, published in 1808.
 
-![Object Number P.478/479-1937]({{ site.baseurl }}/images/lovestories/P_479_1937_CE.jpeg){: .img-fluid }
+![Object Number P.478/479-1937]({{ site.baseurl }}/images/lovestories/P_479_1937_CE.jpg){: .img-fluid }
 
 **Onoe Kikugorô III as Izutu-ya Dembei and Iwai Kumesaburô II as Oshun Ichikawa**
 Utagawa Kunisada  
@@ -361,7 +361,7 @@ The poems on the print quote dialogue from the play:
 
 Numerous Kabuki plays featuring Oshun and Dembei were adapted from plays originating in the puppet theatre, which were based on a real event that took place in Kyoto in 1703: the double or love-suicide, along the Kamogawa river, of the rice merchant Dembei and Oshun from Horikawa.
 
-![Object Number P.201-1946]({{ site.baseurl }}/images/lovestories/P_201_1946_CE.jpeg){: .img-fluid }
+![Object Number P.201-1946]({{ site.baseurl }}/images/lovestories/P_201_1946_CE.jpg){: .img-fluid }
 
 **Umegawa and Chûbei**
 Kitagawa Utamaro  
@@ -379,7 +379,7 @@ Numerous Kabuki and puppet plays featuring Umegawa and Chûbei derive from _The 
 Prints usually depicted the lovers escaping to commit 'love-suicide'. This is more erotic. Umegawa ties or unties her lower sash (_obi_), trailing it against Chûbei. In an echo of the gesture seen in erotic prints when women stifle cries of passion, she grips in her teeth the tissues used to mop up after sex. This may be a reference to the play in which Chûbei's mother is puzzled as to why he is using up so many tissues: 'How can he blow his nose so much?'
 
 
-![Object Number P.317-2013]({{ site.baseurl }}/images/lovestories/P_317_2013_CE_4.jpeg){: .img-fluid }
+![Object Number P.317-2013]({{ site.baseurl }}/images/lovestories/P_317_2013_CE_4.jpg){: .img-fluid }
 
 **Kabuki actors Sawamura Sôjûrô III (left), Segawa Kikunojô III (centre) and Kataoka Nizaemon VII (right)**
 Katsukawa Shun'ei  
@@ -401,7 +401,7 @@ In league with Gengobei's brother, Sangobei tells Koman that they will kill Geng
 
 Prints usually depicted the 'divorce' scene with the shamisen, but here Shun'ei probably depicts the earlier scene when Koman and Gengobei first pretend to Sangobei that they are lovers.
 
-![Object Number P.90-1999]({{ site.baseurl }}/images/lovestories/P_90_1999_CE.jpeg){: .img-fluid }  
+![Object Number P.90-1999]({{ site.baseurl }}/images/lovestories/P_90_1999_CE.jpg){: .img-fluid }  
 
 **Ichimura Takenojô V as Abe no Yasuna**
 Utagawa Kunisada  
@@ -418,7 +418,7 @@ Ichimura Takenojô V (1812-51; his poetry name Kakô is also given on the print)
 
 This scene comes from Act II of the play _A Courtly Mirror of Ashiya Dôman_ (_Ashiya Dôman Ôuchi Kagami_) first performed in 1734. In 1818 it also became the subject of an independent dance named 'Yasuna'. When the position of diviner at the imperial court is denied to him, Yasuna's betrothed takes her own life in despair and he himself goes mad with grief at her loss. Plagued by visions, he wanders through the spring countryside in search of her, 'his form drifting senselessly, his hair dishevelled', as he carries her brocade robe over one shoulder. The purple headband is a stage convention indicating illness or mental distraction.
 
-![Object Number P.23-2003]({{ site.baseurl }}/images/lovestories/P_23_2003_CE_2.jpeg){: .img-fluid }
+![Object Number P.23-2003]({{ site.baseurl }}/images/lovestories/P_23_2003_CE_2.jpg){: .img-fluid }
 
 **Hôrin Temple Moon: Yokobue**  
 **_Hôrinji no tsuki - Yokobue_**

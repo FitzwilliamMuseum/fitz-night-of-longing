@@ -13,7 +13,7 @@ The explicit nature of this dialogue and the graphic detail of the erotic images
 
 Pillow pictures and pillow books (_makurabon_) were appreciated for their artistic component. Most major print artists produced erotic designs, which were often among their best work and were afforded some of the most lavish production techniques available. They also had a role in sex education (erotic pictures were part of a bride's wedding trousseau), and they were used by both men and women from many walks of life as a source of escapism and stimulation, often enjoyed in the company of a lover. In terms of their imagery, sexually explicit shunga overlap with mildly-sensual _abun-e_ (risqué pictures), which give tantalising glimpses of flesh through loosely fitting robes.
 
-![Object Number P.3522-R]({{site.baseurl}}/images/pillowpictures/p_3522_r_1_201209_mfj22_dc1.jpeg){: .img-fluid }  
+![Object Number P.3522-R]({{site.baseurl}}/images/pillowpictures/p_3522_r_1_201209_mfj22_dc1.jpg){: .img-fluid }  
 
 Suzuki Harunobu  
 1724-1770
@@ -36,7 +36,7 @@ This print is also encountered with variant blocks used for the wall on the righ
 
 [P.3522-R]({{site.collection_url}}id/object/182466)
 
-![Object Number P.112-1994]({{site.baseurl}}/images/pillowpictures/P_112_1994_CE.jpeg){: .img-fluid }
+![Object Number P.112-1994]({{site.baseurl}}/images/pillowpictures/P_112_1994_CE.jpg){: .img-fluid }
 
 Suzuki Harunobu  
 1724-1770
@@ -54,7 +54,7 @@ The printing effects in shunga can be exquisite, suggesting that they were aimed
 
 [P.112-1994]({{site.collection_url}}id/object/182899)
 
-![Object Number P.3639-R]({{site.baseurl}}/images/pillowpictures/p_3639_r_1_201308_mfj22_dc2.jpeg){: .img-fluid }   
+![Object Number P.3639-R]({{site.baseurl}}/images/pillowpictures/p_3639_r_1_201308_mfj22_dc2.jpg){: .img-fluid }   
 
 Isoda Koryûsai  
 active 1766-88
@@ -70,7 +70,7 @@ This tall narrow format of prints, or 'pillar pictures' (_hashira-e_), was so na
 
 [P.3639-R]({{site.collection_url}}id/object/182545)
 
-![Object Number P.19-2012]({{site.baseurl}}/images/pillowpictures/P_19_2012_CE.jpeg){: .img-fluid }  
+![Object Number P.19-2012]({{site.baseurl}}/images/pillowpictures/P_19_2012_CE.jpg){: .img-fluid }  
 
 Katsukawa Shunchô  
 active c.1781-1801
@@ -95,7 +95,7 @@ Her:
 
 [P.19-2012]({{site.collection_url}}id/object/190409)
 
-![Object Number P.18-2012]({{site.baseurl}}/images/pillowpictures/large_p_18_2012_1_201307_mfj22_dc2.jpeg){: .img-fluid }
+![Object Number P.18-2012]({{site.baseurl}}/images/pillowpictures/large_p_18_2012_1_201307_mfj22_dc2.jpg){: .img-fluid }
 
 Katsukawa Shunchô  
 active c.1781-1801
@@ -119,7 +119,7 @@ Her:
 
 [P.18-2012]({{site.collection_url}}id/object/190408)
 
-![Object Number P.3511-R]({{site.baseurl}}/images/pillowpictures/p_3511_r_1_201308_mfj22_dc2.jpeg){: .img-fluid }
+![Object Number P.3511-R]({{site.baseurl}}/images/pillowpictures/p_3511_r_1_201308_mfj22_dc2.jpg){: .img-fluid }
 
 Eishosai Choki  
 active c.1770-1810
@@ -191,7 +191,7 @@ Him:
 
 [P.316-2013]({{site.collection_url}}id/object/197312)
 
-![Object Number P.3578-R]({{site.baseurl}}/images/pillowpictures/p_3578_r_1_201308_mfj22_dc2.jpeg)   
+![Object Number P.3578-R]({{site.baseurl}}/images/pillowpictures/p_3578_r_1_201308_mfj22_dc2.jpg)   
 
 Utagawa Hiroshige  
 1797-1858
@@ -210,7 +210,7 @@ An alternative printing, probably earlier, has more refined printing, including 
 
 [P.3578-R]({{site.collection_url}}id/object/182510)
 
-![Object Number P.47-2006]({{site.baseurl}}/images/pillowpictures/P_47_2006_CE.jpeg)
+![Object Number P.47-2006]({{site.baseurl}}/images/pillowpictures/P_47_2006_CE.jpg)
 
 Kitagawa Utamaro  
 c.1753-1806
@@ -280,7 +280,7 @@ Wankyû:
 > 'Because of your lavish praise I am having sex like this. I put all my money into you, the 'Mountain Pine' (Matsuyama) that goes on forever \[lasts a thousand years\]! I never forget you, not even for a second. That's why I'm so confused. And I end up by lifting bamboo leaves \[the pattern on her kimono\].'  
 (based on a translation by Laura Moretti)
 
-![Object Number P.310-2013]({{site.baseurl}}/images/pillowpictures/P_310_2013_CE.jpeg)
+![Object Number P.310-2013]({{site.baseurl}}/images/pillowpictures/P_310_2013_CE.jpg)
 
 Utagawa Kunisada  
 1786 1865
@@ -333,7 +333,7 @@ This depiction also seems to have been inspired by an illustration in the erotic
 
 In later images in this book the couple are enjoying sex, with Murasaki's initial reluctance gone: 'she was like a cherry flower blossoming'.
 
-![Ebi Collection]({{site.baseurl}}/images/pillowpictures/Ebi_loan.jpeg)
+![Ebi Collection]({{site.baseurl}}/images/pillowpictures/Ebi_loan.jpg)
 
 Keisai Eisen  
 1790-1848
@@ -351,7 +351,7 @@ Volume 2 focuses on the pleasure quarter, where the surface appearance (_omote_)
 Volume 3 contrasts customers versed in the etiquette of the pleasure quarter with those who are not; and contrasts women who can make even an unskilled customer seem skilled as a lover, with those who cannot. The reader is warned not to get ripped off.
 
 
- ![Ebi Collection]({{site.baseurl}}/images/pillowpictures/Ebi_loan1.jpeg)  
+ ![Ebi Collection]({{site.baseurl}}/images/pillowpictures/Ebi_loan1.jpg)  
 
 **Volume 1**
 
@@ -370,7 +370,7 @@ The poem in the sky above the ducks is written in Chinese characters (_kanshi_):
 Mandarin ducks were a symbol of fidelity because it was believed that they paired for life.
 
 
-![Ebi Collection]({{site.baseurl}}/images/pillowpictures/Ebi_loan2.jpeg)
+![Ebi Collection]({{site.baseurl}}/images/pillowpictures/Ebi_loan2.jpg)
 
 **Volume 2**
 
@@ -386,7 +386,7 @@ Him:
 (based on a translation by Laura Moretti)
 
 
-![Ebi Collection]({{site.baseurl}}/images/pillowpictures/Ebi_loan3.jpeg)
+![Ebi Collection]({{site.baseurl}}/images/pillowpictures/Ebi_loan3.jpg)
 
 **Volume 3**
 
@@ -401,7 +401,7 @@ Her:
 > 'Mmmm! Ah, oh yes!' \[etcetera...\]  
 (based on a translation by Laura Moretti)
 
-![]({{site.baseurl}}/images/pillowpictures/trick1.jpeg)  
+![]({{site.baseurl}}/images/pillowpictures/trick1.jpg)  
 School of Utagawa Kunisada  
 c.1860s
 
@@ -413,7 +413,7 @@ Lent from a private collection
 
 From the series 'A collection of tricks' (_Shikake bunko_). Trick elements were introduced in erotic books from the 1820s, with hinged flaps for a door or screen that could be lifted to reveal sexual activity beneath. The same idea was developed in interactive 'trick prints' (_shikake-e_), which sometimes had moving parts, as in this example.
 
-![]({{site.baseurl}}/images/pillowpictures/trick2.jpeg)  
+![]({{site.baseurl}}/images/pillowpictures/trick2.jpg)  
 This shows the flap lifted. Hover mouse over the tab to move the figures.  
 
 

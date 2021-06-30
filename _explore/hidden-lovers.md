@@ -8,7 +8,7 @@ The close up view we often get in Japanese prints, and particularly the way figu
 
 There are also visual clues that suggest another presence, and even tell us that we are close to intruding on an amorous situation. Or a lover might be suggested by a reflection, or a shadow on a blind, or by the scent left on a bathrobe.
 
-![Object Number P.3-2004]({{site.baseurl}}/images/hiddenlovers/P_3_2004_CE.jpeg){: img-fluid }
+![Object Number P.3-2004]({{site.baseurl}}/images/hiddenlovers/P_3_2004_CE.jpg){: img-fluid }
 
 **Looking Cool: a Geisha in the fifth or sixth year of Meiji**  
 _**Suzushisô Meiji goroku nen irai geigi no fûzoku**_
@@ -28,7 +28,7 @@ Unlike others in the series, this print is dated to a specific time (1872/3) rat
 
 As professional entertainers, geisha were traditionally forbidden from having sex with customers, but in the Meiji period lower class geisha were allowed an additional licence permitting them to offer sexual favours as well. Around the date of the setting of this print, the government emancipated geisha from their legal commitment to pay off their indenture. Many retired and became prosperous housewives in the Meiji period.
 
-![Object Number P.3570-R]({{site.baseurl}}/images/hiddenlovers/p_3570_r_1_201308_mfj22_dc2.jpeg){: .img-fluid }
+![Object Number P.3570-R]({{site.baseurl}}/images/hiddenlovers/p_3570_r_1_201308_mfj22_dc2.jpg){: .img-fluid }
 
 **Pine of Success and Oumayagashi, Asakusa River**  
 _**Asakusagawa Shubi no matsu Oumayagashi**_
@@ -49,7 +49,7 @@ In the left foreground is a pleasure boat (_yanebune_). Two pairs of clogs lie i
 The effect of the woman's silhouette is even more subtle in earlier printings than this; they also have a yellow glow in the sky just above the horizon.
 
 
-![Object Number P.553-1937]({{site.baseurl}}/images/hiddenlovers/P_553_1937_CE.jpeg){: img-fluid }
+![Object Number P.553-1937]({{site.baseurl}}/images/hiddenlovers/P_553_1937_CE.jpg){: img-fluid }
 
 **Summer robes incense** _**Natsu-goromo**_
 Yanagawa Shigenobu, 1787-1833  
@@ -79,7 +79,7 @@ A woman wears a blue cotton bathrobe (_yukata_) and dries herself with a hand to
     – Rikkaen  
     (translation: Alfred Haft)
 
-![Object Number P.489-1937]({{site.baseurl}}/images/hiddenlovers/p_489_1937_1_201308_mfj22_dc2.jpeg){: .img-fluid }
+![Object Number P.489-1937]({{site.baseurl}}/images/hiddenlovers/p_489_1937_1_201308_mfj22_dc2.jpg){: .img-fluid }
 
 **Flower**
 Utagawa Kunisada  
