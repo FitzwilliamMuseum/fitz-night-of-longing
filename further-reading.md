@@ -143,4 +143,4 @@ Online exhibition of [Yoshitoshi](../../yoshitoshi/index.html)
 
 Online exhibition of [Snow Country](../../snowcountry/index.html)
 
-Online animated explanation of [Japanese woodcut making](../../../pharos/sections/making_art/index_japan.html)  
+Online animated explanation of [Japanese woodcut making]({{site.collection_url}}pharos/sections/making_art/index_japan.html)  

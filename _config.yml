@@ -30,6 +30,8 @@ github_username:  fitzwilliammuseum
 background: "/images/P_19_2012_CE.jpg"
 collection_url: "https://data.fitzmuseum.cam.ac.uk/"
 # Build settings
+google_analytics: 'G-2R0YLY9DRS'
+
 plugins:
   - jekyll-feed
 words_per_minute: 200
