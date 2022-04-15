@@ -1,5 +1,7 @@
 # The Night of Longing
 
+[![DOI](https://zenodo.org/badge/381701116.svg)](https://zenodo.org/badge/latestdoi/381701116)
+
 This exhibition of Japanese woodcuts and books of the Edo and Meiji periods (c.1600-1900) is based on the Fitzwilliam Museum’s collection.
 
 Subjects include lovers in literature and drama, couples enjoying sex or frustrated by desire, and figures yearning for absent partners, touched by the poetry of shared emotions from another time.
